@@ -77,4 +77,4 @@
 * 善后组（猜测）：冠萱
 * 心灵感知组
 
-&#x20;
+&#x20;<a href="neng-li-ti-xi.md" class="button primary" data-icon="align-justify">能力体系</a><a href="yao-ling-hui-guan.md" class="button primary" data-icon="align-justify">妖灵会馆</a><a href="zhong-sheng-zhi-men.md" class="button primary" data-icon="align-justify">众生之门</a>

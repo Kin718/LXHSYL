@@ -63,3 +63,5 @@
 ### Logo设计
 
 <figure><img src="../.gitbook/assets/logo (1).jpg" alt=""><figcaption></figcaption></figure>
+
+<a href="neng-li-ti-xi.md" class="button primary" data-icon="align-justify">能力体系</a><a href="yao-ling-hui-guan.md" class="button primary" data-icon="align-justify">妖灵会馆</a><a href="zhong-sheng-zhi-men.md" class="button primary" data-icon="align-justify">众生之门</a>
