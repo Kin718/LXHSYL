@@ -1,6 +1,4 @@
 ---
-noIndex: true
-noRobotsIndex: true
 layout:
   width: default
   title:
