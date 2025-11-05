@@ -1,3 +1,22 @@
+---
+noIndex: true
+noRobotsIndex: true
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 木头发过的誓
 
 ### TV相关
