@@ -43,3 +43,5 @@
 * 空间系
   * 基于灵质空间，伴有空间变化的能力
   * 空间系能力只能有一种，不可能修炼出其他空间系能力（小黑是特例，有两个灵质空间）
+
+<a href="neng-li-ti-xi.md" class="button primary" data-icon="align-justify">能力体系</a><a href="yao-ling-hui-guan.md" class="button primary" data-icon="align-justify">妖灵会馆</a><a href="zhong-sheng-zhi-men.md" class="button primary" data-icon="align-justify">众生之门</a>
