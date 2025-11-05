@@ -1,14 +1,8 @@
 # Page 2
 
-<div align="left" data-with-frame="true"><figure><img src=".gitbook/assets/Screenshot_20251104_005656.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
-
-<div align="left" data-with-frame="true"><figure><img src=".gitbook/assets/Screenshot_20251103_212358_edit_1338263135169232.jpg" alt="" width="186"><figcaption></figcaption></figure></div>
-
-<div align="left" data-with-frame="true"><figure><img src=".gitbook/assets/无限6.jpg" alt="" width="188"><figcaption></figcaption></figure></div>
-
 {% file src=".gitbook/assets/TV文本.pdf" %}
 
-<table data-view="cards"><thead><tr><th data-type="files"></th><th data-type="checkbox"></th></tr></thead><tbody><tr><td><a href=".gitbook/assets/TV文本.pdf">TV文本.pdf</a></td><td>false</td></tr><tr><td><a href=".gitbook/assets/龙游3 (2).jpg">龙游3 (2).jpg</a></td><td>true</td></tr><tr><td></td><td>false</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-type="files"></th><th data-type="checkbox"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href=".gitbook/assets/TV文本.pdf">TV文本.pdf</a></td><td>false</td><td><a href=".gitbook/assets/流石会馆 (2).jpg">流石会馆 (2).jpg</a></td></tr><tr><td><a href=".gitbook/assets/龙游3 (2).jpg">龙游3 (2).jpg</a></td><td>true</td><td><a href=".gitbook/assets/龙游3 (2).jpg">龙游3 (2).jpg</a></td></tr><tr><td><a href=".gitbook/assets/流石会馆 (2).jpg">流石会馆 (2).jpg</a></td><td>true</td><td><a href=".gitbook/assets/Image_1762175052971.jpg">Image_1762175052971.jpg</a></td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="First Tab" %}
