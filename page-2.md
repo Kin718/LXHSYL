@@ -8,7 +8,7 @@
 
 {% file src=".gitbook/assets/TV文本.pdf" %}
 
-<table data-view="cards"><thead><tr><th data-type="files"></th><th data-type="checkbox"></th></tr></thead><tbody><tr><td><a href=".gitbook/assets/TV文本.pdf">TV文本.pdf</a></td><td>false</td></tr><tr><td><a href=".gitbook/assets/龙游3 (2).jpg">龙游3 (2).jpg</a></td><td>true</td></tr><tr><td></td><td>false</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-type="files"></th><th data-type="checkbox"></th></tr></thead><tbody><tr><td><a href=".gitbook/assets/TV文本.pdf">TV文本.pdf</a></td><td>false</td></tr><tr><td><a href=".gitbook/assets/龙游3.jpg">龙游3.jpg</a></td><td>true</td></tr><tr><td></td><td>false</td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="First Tab" %}
@@ -54,8 +54,8 @@ qerve
 
 {% columns %}
 {% column width="25%" %}
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 {% endcolumn %}
 
@@ -72,14 +72,14 @@ ytnmjjc
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="broken-reference/" %}
+[broken-reference](broken-reference/)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src=".gitbook/assets/龙游3 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/龙游3.jpg" alt=""><figcaption></figcaption></figure>
 
-<img src=".gitbook/assets/Screenshot_20251104_005656.jpg" alt="" data-size="line"> <img src=".gitbook/assets/龙游3 (2).jpg" alt="" data-size="line"><img src=".gitbook/assets/Screenshot_20251103_212358_edit_1338263135169232.jpg" alt="" data-size="line">
+![](.gitbook/assets/Screenshot_20251104_005656.jpg) ![](.gitbook/assets/龙游3.jpg) ![](.gitbook/assets/Screenshot_20251103_212358_edit_1338263135169232.jpg)
 
 <a href="page-2.md#second-tab" class="button primary">New button</a>/

@@ -12,7 +12,7 @@
 
 <figure><img src="../../../.gitbook/assets/流石5.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/流石6 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/流石6.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/流石7.jpg" alt=""><figcaption></figcaption></figure>
 
