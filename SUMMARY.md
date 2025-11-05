@@ -126,6 +126,8 @@
 
 ## 台词本
 
+* [蓝溪镇（未）](tai-ci-ben/lan-xi-zhen-wei.md)
+* [电影一（未）](tai-ci-ben/dian-ying-yi-wei.md)
 * [电影二（未）](tai-ci-ben/dian-ying-er-wei.md)
 * [TV](tai-ci-ben/tv.md)
 

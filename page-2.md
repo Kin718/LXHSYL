@@ -8,7 +8,7 @@
 
 {% file src=".gitbook/assets/TV文本.pdf" %}
 
-<table data-view="cards"><thead><tr><th data-type="files"></th><th data-type="checkbox"></th></tr></thead><tbody><tr><td><a href=".gitbook/assets/TV文本.pdf">TV文本.pdf</a></td><td>false</td></tr><tr><td><a href=".gitbook/assets/龙游3.jpg">龙游3.jpg</a></td><td>true</td></tr><tr><td></td><td>false</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th data-type="files"></th><th data-type="checkbox"></th></tr></thead><tbody><tr><td><a href=".gitbook/assets/TV文本.pdf">TV文本.pdf</a></td><td>false</td></tr><tr><td><a href=".gitbook/assets/龙游3 (2).jpg">龙游3 (2).jpg</a></td><td>true</td></tr><tr><td></td><td>false</td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="First Tab" %}
@@ -36,6 +36,10 @@ qerve
   * dgbebrwefd
 * ebvbrt
 {% endtab %}
+
+{% tab title="Untitled" %}
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td></td><td><a href=".gitbook/assets/龙游3 (2).jpg">龙游3 (2).jpg</a></td></tr><tr><td></td><td><a href=".gitbook/assets/Image_1762174446323.jpg">Image_1762174446323.jpg</a></td></tr><tr><td></td><td><a href=".gitbook/assets/Screenshot_20251104_005656.jpg">Screenshot_20251104_005656.jpg</a></td></tr><tr><td></td><td></td></tr></tbody></table>
+{% endtab %}
 {% endtabs %}
 
 <details>
@@ -46,16 +50,10 @@ qerve
 
 </details>
 
-<img src=".gitbook/assets/file.excalidraw.svg" alt="" class="gitbook-drawing">
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
 {% columns %}
 {% column width="25%" %}
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 {% endcolumn %}
 
@@ -68,18 +66,14 @@ qerve
 {% column %}
 niojp
 
-ytnmjjc
+ytnmjj
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
 
-<figure><img src=".gitbook/assets/龙游3.jpg" alt=""><figcaption></figcaption></figure>
-
-![](.gitbook/assets/Screenshot_20251104_005656.jpg) ![](.gitbook/assets/龙游3.jpg) ![](.gitbook/assets/Screenshot_20251103_212358_edit_1338263135169232.jpg)
-
-<a href="page-2.md#second-tab" class="button primary">New button</a>/
+<a href="ji-chu-she-ding/neng-li-ti-xi.md" class="button primary" data-icon="align-justify">能力体系</a>
