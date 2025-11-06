@@ -34,3 +34,17 @@
     * 锁御宫：使用锁御宫时，湖面会起雾（开会）
     * 聚灵宫
   * 灵阁
+
+<a href="../../" class="button primary" data-icon="align-justify">按设定本身性质分类</a><a href="../../../an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/" class="button primary" data-icon="align-justify">按设定/消息发布方式分类</a>
+
+***
+
+<a href="../../ming-ci-jie-shi.md" class="button primary" data-icon="align-justify">名词解释</a><a href="../../chang-shi.md" class="button primary" data-icon="align-justify">常识</a><a href="../../ji-neng.md" class="button primary" data-icon="align-justify">技能</a><a href="../../wu-pin/" class="button primary" data-icon="align-justify">物品</a><a href="../" class="button primary" data-icon="align-justify">地标介绍</a>
+
+***
+
+<a href="./" class="button primary" data-icon="align-justify">蓝溪镇漫画</a><a href="../dian-ying-yi.md" class="button primary" data-icon="align-justify">电影一</a><a href="../dian-ying-er.md" class="button primary" data-icon="align-justify">电影二</a>
+
+***
+
+<a href="lan-xi-zhen.md" class="button primary" data-icon="align-justify">蓝溪镇</a><a href="shi-yue-lou.md" class="button primary" data-icon="align-justify">诗越楼</a>

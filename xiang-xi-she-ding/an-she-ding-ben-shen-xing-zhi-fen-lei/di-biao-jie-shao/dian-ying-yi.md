@@ -15,3 +15,9 @@
 ### 龙游会馆
 
 * 妖灵会馆分布在各大人类城市，为妖精提供庇护。与卡里的灵溪会馆不同，龙游会馆在一个独立空间内，城里有一栋大楼作为对外办事处和空间入口，不过大战时损毁，所以电影结尾时他们只能由云入口进入
+
+<a href="../" class="button primary" data-icon="align-justify">按设定本身性质分类</a><a href="../../an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/" class="button primary" data-icon="align-justify">按设定/消息发布方式分类</a>
+
+***
+
+<a href="../ming-ci-jie-shi.md" class="button primary" data-icon="align-justify">名词解释</a><a href="../chang-shi.md" class="button primary" data-icon="align-justify">常识</a><a href="../ji-neng.md" class="button primary" data-icon="align-justify">技能</a><a href="../wu-pin/" class="button primary" data-icon="align-justify">物品</a><a href="./" class="button primary" data-icon="align-justify">地标介绍</a>
