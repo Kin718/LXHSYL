@@ -149,3 +149,5 @@
     * 正式上映
   * 2025.10.24
     * 流媒体上映
+
+<a href="qi-ta.md" class="button primary" data-icon="align-justify">其他</a><a href="geng-xin-shi-jian-ji-lu.md" class="button primary" data-icon="align-justify">更新时间记录</a><a href="luo-xiao-hei-zhan-ji-de-zuo-zhe-men-tv.md" class="button primary" data-icon="align-justify">罗小黑战记的作者们（TV）</a><a href="luo-xiao-hei-zhan-ji-de-zuo-zhe-men-dian-ying.md" class="button primary" data-icon="align-justify">罗小黑战记的作者们（电影）</a>

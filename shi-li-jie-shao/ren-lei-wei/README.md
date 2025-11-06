@@ -1,7 +1,7 @@
 # 人类（未）
 
-{% content-ref url="xing-guo.md" %}
-[xing-guo.md](xing-guo.md)
+{% content-ref url="xing-guo-deng-shi-jian-xian.md" %}
+[xing-guo-deng-shi-jian-xian.md](xing-guo-deng-shi-jian-xian.md)
 {% endcontent-ref %}
 
 {% content-ref url="kuo-lun-tuo-gu-yong-bing.md" %}

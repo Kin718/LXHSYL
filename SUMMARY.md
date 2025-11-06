@@ -22,7 +22,7 @@
 ## 势力介绍
 
 * [人类（未）](shi-li-jie-shao/ren-lei-wei/README.md)
-  * [兴国](shi-li-jie-shao/ren-lei-wei/xing-guo.md)
+  * [兴国（等时间线）](shi-li-jie-shao/ren-lei-wei/xing-guo-deng-shi-jian-xian.md)
   * [阔伦托雇佣兵](shi-li-jie-shao/ren-lei-wei/kuo-lun-tuo-gu-yong-bing.md)
   * [西奥兰莫军队](shi-li-jie-shao/ren-lei-wei/xi-ao-lan-mo-jun-dui.md)
 * [妖精（未）](shi-li-jie-shao/yao-jing-wei/README.md)
