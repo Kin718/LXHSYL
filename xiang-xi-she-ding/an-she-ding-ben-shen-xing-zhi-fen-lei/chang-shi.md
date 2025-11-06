@@ -60,3 +60,9 @@
 * 有活到一万岁的妖精么？好像没有，也许上古时代会有吧
 * 妖精信奉固种论，认为妖精都是种子，现在的所有生物，都是由远古妖族繁衍变化而来
 * 妖精知道的历史不比人类久远多少。人类的神话和妖精的传说是相融的，互相启发、互相影响
+
+<a href="./" class="button primary" data-icon="align-justify">按设定本身性质分类</a><a href="../an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/" class="button primary" data-icon="align-justify">按设定/消息发布方式分类</a>
+
+***
+
+<a href="ming-ci-jie-shi.md" class="button primary" data-icon="align-justify">名词解释</a><a href="chang-shi.md" class="button primary" data-icon="align-justify">常识</a><a href="ji-neng.md" class="button primary" data-icon="align-justify">技能</a><a href="wu-pin/" class="button primary" data-icon="align-justify">物品</a><a href="di-biao-jie-shao/" class="button primary" data-icon="align-justify">地标介绍</a>

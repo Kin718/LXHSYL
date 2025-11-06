@@ -11,3 +11,9 @@
 * 灵偶/傀儡：人为将生灵和物质灵结合，没有太多自我意识，如果没有额外干预，会慢慢静止、消散
 * 仙：打开灵质空间者
 * 固种论：妖精信奉的理论，认为现在的所有生物都是由远古妖族繁衍变化而来，无尽岁月演化中才有这万千生灵，包括人族。人族先祖可能是某位大能
+
+<a href="./" class="button primary" data-icon="align-justify">按设定本身性质分类</a><a href="../an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/" class="button primary" data-icon="align-justify">按设定/消息发布方式分类</a>
+
+***
+
+<a href="ming-ci-jie-shi.md" class="button primary" data-icon="align-justify">名词解释</a><a href="chang-shi.md" class="button primary" data-icon="align-justify">常识</a><a href="ji-neng.md" class="button primary" data-icon="align-justify">技能</a><a href="wu-pin/" class="button primary" data-icon="align-justify">物品</a><a href="di-biao-jie-shao/" class="button primary" data-icon="align-justify">地标介绍</a>
