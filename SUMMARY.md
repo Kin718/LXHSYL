@@ -99,8 +99,8 @@
     * [电影二](xiang-xi-she-ding/an-she-ding-ben-shen-xing-zhi-fen-lei/di-biao-jie-shao/dian-ying-er.md)
 * [按设定/消息发布方式分类](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/README.md)
   * [路演](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/lu-yan.md)
-  * [官博（未）](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/guan-bo-wei.md)
-  * [主创评论（未）](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/zhu-chuang-ping-lun-wei.md)
+  * [官博（ing）](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/guan-bo-ing.md)
+  * [主创评论（ing）](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/zhu-chuang-ping-lun-ing.md)
 
 ## 人物介绍
 
@@ -120,9 +120,13 @@
 ## 零散信息收录
 
 * [其他](ling-san-xin-xi-shou-lu/qi-ta.md)
-* [时间记录](ling-san-xin-xi-shou-lu/shi-jian-ji-lu.md)
+* [时间记录（ing）](ling-san-xin-xi-shou-lu/shi-jian-ji-lu-ing.md)
 * [罗小黑战记的作者们（TV）](ling-san-xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-tv.md)
 * [罗小黑战记的作者们（电影）](ling-san-xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-dian-ying.md)
+
+## 成长历程
+
+* [成长历程/木头的丢人故事（ing）](cheng-zhang-li-cheng/cheng-zhang-li-cheng-mu-tou-de-diu-ren-gu-shi-ing.md)
 
 ## 圣地巡礼
 
@@ -131,9 +135,9 @@
 
 ## 台词本
 
-* [蓝溪镇（未）](tai-ci-ben/lan-xi-zhen-wei.md)
-* [电影一（未）](tai-ci-ben/dian-ying-yi-wei.md)
-* [电影二（未）](tai-ci-ben/dian-ying-er-wei.md)
+* [蓝溪镇（ing）](tai-ci-ben/lan-xi-zhen-ing.md)
+* [电影一（ing）](tai-ci-ben/dian-ying-yi-ing.md)
+* [电影二（ing）](tai-ci-ben/dian-ying-er-ing.md)
 * [TV](tai-ci-ben/tv.md)
 
 ## 致谢

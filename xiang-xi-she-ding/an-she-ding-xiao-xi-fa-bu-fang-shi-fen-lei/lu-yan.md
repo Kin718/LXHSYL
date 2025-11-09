@@ -111,4 +111,4 @@
 
 ***
 
-<a href="lu-yan.md" class="button primary" data-icon="align-justify">路演</a><a href="guan-bo-wei.md" class="button primary" data-icon="align-justify">官博</a><a href="zhu-chuang-ping-lun-wei.md" class="button primary" data-icon="align-justify">主创评论</a>
+<a href="lu-yan.md" class="button primary" data-icon="align-justify">路演</a><a href="guan-bo-ing.md" class="button primary" data-icon="align-justify">官博</a><a href="zhu-chuang-ping-lun-ing.md" class="button primary" data-icon="align-justify">主创评论</a>
