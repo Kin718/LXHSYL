@@ -1,11 +1,11 @@
 # 电影二
 
-{% content-ref url="wu-xian-de-xiao-wu.md" %}
-[wu-xian-de-xiao-wu.md](wu-xian-de-xiao-wu.md)
+{% content-ref url="wu-xian-xiao-wu.md" %}
+[wu-xian-xiao-wu.md](wu-xian-xiao-wu.md)
 {% endcontent-ref %}
 
-{% content-ref url="lu-ye-de-xiao-wu.md" %}
-[lu-ye-de-xiao-wu.md](lu-ye-de-xiao-wu.md)
+{% content-ref url="lu-ye-xiao-wu.md" %}
+[lu-ye-xiao-wu.md](lu-ye-xiao-wu.md)
 {% endcontent-ref %}
 
 {% content-ref url="lin-shi-chuan-song-men.md" %}
