@@ -86,6 +86,7 @@
 
 ### 2025.8.1微博主创分享
 
+* 电影开场那枚导弹是音爆弹
 * 清泉的刀掉了的时候是不发光的，这意味着她死了，但是破大松流石甲的那把刀是亮的，这时候她还活着
 * 师姐和甲乙换位置是因为不想被人盯着
 * 哪吒有自己的个人潮牌
@@ -104,13 +105,7 @@
 * 师姐在酒店贴的符上面有字（BV1dHezzgEm8）
 * 成像仪中红色部分是妖精的灵质，灰白色部分是普通热成像，越热的地方越浅（BV1WNYyzeECM）
 * 法器使用的效果与使用者能力有关，灵遥用流石甲比大松用流石甲更强（BV1WNYyzeECM）
-
-
-
-### 待确认
-
-* 池年的配音说那句妖精语有体系，是hmch编的
-* 是否说过师姐原型关系后续剧情
+* 妖精语是录音现场造的，不是闽南语言，是福州话的一部分，是在安徽话、福州话挑了一些特定的词，打乱顺序排列组合后变成了那句妖精语。木头说妖精肯定要有自己的语言、不同于人类的妖精语，最后在电影里只保留了一句，当时录了一些，可能压得很低，不知道大家有没有听到，未来TV中可能会出现。看HMCH那边的意思，有可能把这个做成成体系的妖精语，这次是有尝试（[http://xhslink.com/o/74CmILmZc7n](http://xhslink.com/o/74CmILmZc7n)）（[http://xhslink.com/o/5BQCxsGN668](http://xhslink.com/o/5BQCxsGN668)）
 
 <a href="../an-she-ding-ben-shen-xing-zhi-fen-lei/" class="button primary" data-icon="align-justify">按设定本身性质分类</a><a href="./" class="button primary" data-icon="align-justify">按设定/消息发布方式分类</a>
 
