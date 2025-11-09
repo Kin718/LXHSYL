@@ -1,4 +1,4 @@
-# 路演（ing）
+# 路演
 
 ### 2019.8.30北京路演
 
@@ -97,7 +97,7 @@
 
 
 
-### 其他
+### 电影二
 
 * 龙骨相当于载具（BV1dHezzgEm8）
 * 妖精依据攻击方式不同会有不同的受伤表现，受到攻击灵的武器的伤害会溢出一些灵，但妖精也会受皮肉伤，即表现为流血的形式（BV1dHezzgEm8）
@@ -111,4 +111,4 @@
 
 ***
 
-<a href="lu-yan-ing.md" class="button primary" data-icon="align-justify">路演</a><a href="guan-bo-wei.md" class="button primary" data-icon="align-justify">官博</a><a href="zhu-chuang-ping-lun-wei.md" class="button primary" data-icon="align-justify">主创评论</a>
+<a href="lu-yan.md" class="button primary" data-icon="align-justify">路演</a><a href="guan-bo-wei.md" class="button primary" data-icon="align-justify">官博</a><a href="zhu-chuang-ping-lun-wei.md" class="button primary" data-icon="align-justify">主创评论</a>

@@ -98,7 +98,7 @@
     * [电影一](xiang-xi-she-ding/an-she-ding-ben-shen-xing-zhi-fen-lei/di-biao-jie-shao/dian-ying-yi.md)
     * [电影二](xiang-xi-she-ding/an-she-ding-ben-shen-xing-zhi-fen-lei/di-biao-jie-shao/dian-ying-er.md)
 * [按设定/消息发布方式分类](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/README.md)
-  * [路演（ing）](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/lu-yan-ing.md)
+  * [路演](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/lu-yan.md)
   * [官博（未）](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/guan-bo-wei.md)
   * [主创评论（未）](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/zhu-chuang-ping-lun-wei.md)
 
