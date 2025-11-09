@@ -72,6 +72,7 @@
     * [无限小屋](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/wu-xian-xiao-wu.md)
     * [鹿野小屋](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/lu-ye-xiao-wu.md)
     * [鹿野去过的会馆](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/lu-ye-qu-guo-de-hui-guan.md)
+    * [夜市周边](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/ye-shi-zhou-bian.md)
     * [临时传送门](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/lin-shi-chuan-song-men.md)
     * [废弃钢铁厂](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/fei-qi-gang-tie-chang.md)
     * [阔伦托雇佣兵基地](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/kuo-lun-tuo-gu-yong-bing-ji-di.md)
