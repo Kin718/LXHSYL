@@ -20,9 +20,9 @@
 
 <figure><img src="../../../.gitbook/assets/钢铁厂91.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/钢铁厂1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/钢铁厂1（1）.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/钢铁厂2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/钢铁厂2 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 <a href="./" class="button primary" data-icon="align-justify">电影二</a>
 
