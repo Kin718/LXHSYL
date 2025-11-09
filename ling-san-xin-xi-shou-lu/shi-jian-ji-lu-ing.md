@@ -1,8 +1,21 @@
 # 时间记录（ing）
 
+### 寒木春华发展史
+
+* 2011年，一个人，更了两集，1\~2集
+* 2012年，三个人，更了三集，3\~5集
+* 2013年，五个人，更了四集，6\~9集
+* 2014年，六个人，更了五集，10\~14集
+
+
+
+### 人员变动
+
+<table><thead><tr><th width="122">成员</th><th>加入</th><th>身份</th><th>离开</th></tr></thead><tbody><tr><td>木头</td><td></td><td>导演、编剧</td><td></td></tr><tr><td>阿根</td><td>第三集2011年底</td><td>动画</td><td></td></tr><tr><td>云飞</td><td>第三集2011年底</td><td>动画</td><td></td></tr><tr><td>小雨</td><td>第四集2012年上半年</td><td>周边</td><td>第十集2014年中</td></tr><tr><td>虎妞</td><td>第五集2012年下半年</td><td>周边</td><td></td></tr><tr><td>粉末</td><td>第五集2012年下半年</td><td>周边</td><td></td></tr><tr><td>月饼</td><td>第五集2012年下半年</td><td>周边</td><td>第十集2014年中</td></tr><tr><td>田鼠</td><td>第六集2013年初</td><td>周边</td><td></td></tr><tr><td>卡里</td><td>第六集2013年初</td><td>动画</td><td></td></tr><tr><td>盲眼</td><td>第八集2013年中</td><td>动画</td><td></td></tr><tr><td>秃贝</td><td>第十集2014年初<br>第一集重置</td><td></td><td></td></tr><tr><td>秀义</td><td>第十集2014年初<br>第一集重置</td><td></td><td></td></tr><tr><td>大爽</td><td>第十一集2014年中</td><td>动画</td><td></td></tr><tr><td>勃勃</td><td>第十六集2015年上半年</td><td>动画</td><td></td></tr><tr><td>冬冬</td><td>第十七集2015年中</td><td>动画</td><td></td></tr><tr><td>蛋壳</td><td>第十六集2015年上半年</td><td>周边</td><td></td></tr><tr><td>肉山</td><td>第二十一集2016年初</td><td></td><td></td></tr><tr><td>帅虎</td><td>第二十一集2016年初</td><td></td><td></td></tr><tr><td>康子</td><td>第二十一集2016年初</td><td></td><td></td></tr><tr><td>叶子</td><td>第二十一集2016年初</td><td></td><td></td></tr><tr><td>耗子</td><td>第二十一集2016年初</td><td></td><td></td></tr><tr><td>风子</td><td>第二十一集2016年初</td><td></td><td></td></tr><tr><td>璐璐</td><td>第二十一集2016年初</td><td></td><td></td></tr><tr><td>琪琪</td><td>第二十一集2016年初</td><td></td><td></td></tr><tr><td>文涛</td><td>第二十一集2016年初</td><td></td><td></td></tr><tr><td>未蓝</td><td>第二十一集2016年初</td><td></td><td></td></tr></tbody></table>
+
 <figure><img src="../.gitbook/assets/屏幕截图 2025-11-09 174412.png" alt=""><figcaption></figcaption></figure>
 
-### TV
+TV
 
 * 2011.03.17
   * 第一集《喵》
