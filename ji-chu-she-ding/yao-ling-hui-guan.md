@@ -82,6 +82,6 @@
 * 感知组：组长鹿野，队长泽宇，队员西地、紫实、火花、阿吉、雪荆
 * 后勤组（猜测）：花轮、晴岚
 * 善后组（猜测）：冠萱
-* 心灵感知组
+* 心灵感知考察组
 
 &#x20;<a href="neng-li-ti-xi.md" class="button primary" data-icon="align-justify">能力体系</a><a href="yao-ling-hui-guan.md" class="button primary" data-icon="align-justify">妖灵会馆</a><a href="zhong-sheng-zhi-men.md" class="button primary" data-icon="align-justify">众生之门</a>
