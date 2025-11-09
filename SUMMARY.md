@@ -71,6 +71,7 @@
     * [哪吒小屋](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/ne-zha-xiao-wu.md)
     * [无限小屋](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/wu-xian-xiao-wu.md)
     * [鹿野小屋](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/lu-ye-xiao-wu.md)
+    * [无限小屋俯视图](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/wu-xian-xiao-wu-fu-shi-tu.md)
     * [断崖](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/duan-ya.md)
     * [夜市周边](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/ye-shi-zhou-bian.md)
     * [临时传送门](chang-jing-di-tu/chang-jing-di-tu-mu-lu-ye/dian-ying-er/lin-shi-chuan-song-men.md)
@@ -119,7 +120,7 @@
 ## 零散信息收录
 
 * [其他](ling-san-xin-xi-shou-lu/qi-ta.md)
-* [更新时间记录](ling-san-xin-xi-shou-lu/geng-xin-shi-jian-ji-lu.md)
+* [时间记录](ling-san-xin-xi-shou-lu/shi-jian-ji-lu.md)
 * [罗小黑战记的作者们（TV）](ling-san-xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-tv.md)
 * [罗小黑战记的作者们（电影）](ling-san-xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-dian-ying.md)
 
