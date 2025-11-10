@@ -20,7 +20,7 @@
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/image_1762771239388.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-11-10 191758.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -34,7 +34,7 @@
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/image_1762771246880.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-11-10 190656.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -46,7 +46,15 @@
 {% endcolumn %}
 {% endcolumns %}
 
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-11-10 190401.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
 
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
 
 
 
