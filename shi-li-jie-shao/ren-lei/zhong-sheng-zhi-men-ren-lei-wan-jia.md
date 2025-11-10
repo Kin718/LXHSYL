@@ -6,11 +6,13 @@
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/image_1762771230111.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-11-10 193312.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-三三
+姓名：三三
+
+等级：145
 
 武器：刀
 
@@ -24,7 +26,9 @@
 {% endcolumn %}
 
 {% column %}
-革少
+姓名：革少
+
+等级：
 
 武器：刀
 
@@ -38,7 +42,9 @@
 {% endcolumn %}
 
 {% column %}
-阿显
+姓名：阿显
+
+等级：
 
 武器：弓箭
 
@@ -52,11 +58,48 @@
 {% endcolumn %}
 
 {% column %}
+姓名：托比
 
+等级：
+
+武器：手里剑
 {% endcolumn %}
 {% endcolumns %}
 
+{% columns %}
+{% column %}
 
+{% endcolumn %}
 
+{% column %}
+姓名：乱步
 
+等级：129
 
+武器：
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-11-10 192937.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+姓名：小睿
+
+等级：
+
+武器：刀
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：硫酸
+{% endcolumn %}
+{% endcolumns %}
