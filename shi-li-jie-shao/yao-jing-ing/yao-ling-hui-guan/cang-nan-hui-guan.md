@@ -44,7 +44,7 @@
 
 {% columns %}
 {% column %}
-
+<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 223712.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
