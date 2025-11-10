@@ -82,7 +82,7 @@
 * 感知组：组长鹿野，队长泽宇，队员西地、紫实、火花、阿吉、雪荆
 * 后勤组（猜测）：花轮、晴岚
 * 善后组（猜测）：冠萱
-* 心灵感知组
+* 心灵感知考察组
 
 &#x20;
 
@@ -92,8 +92,8 @@
 [cang-nan-hui-guan.md](cang-nan-hui-guan.md)
 {% endcontent-ref %}
 
-{% content-ref url="long-you-hui-guan.md" %}
-[long-you-hui-guan.md](long-you-hui-guan.md)
+{% content-ref url="long-you-hui-guan-ing.md" %}
+[long-you-hui-guan-ing.md](long-you-hui-guan-ing.md)
 {% endcontent-ref %}
 
 {% content-ref url="liu-shi-hui-guan.md" %}

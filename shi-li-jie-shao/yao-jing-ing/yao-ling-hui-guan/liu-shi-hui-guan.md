@@ -6,4 +6,46 @@
 
 馆长：大松
 
-常驻人员：清泉、明月
+常驻人员：清泉、明月、小玉
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：大松
+
+身份：流石会馆馆长
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：清泉
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：明月
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：小玉
+{% endcolumn %}
+{% endcolumns %}

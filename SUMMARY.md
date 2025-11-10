@@ -27,7 +27,7 @@
 * [妖精（ing）](shi-li-jie-shao/yao-jing-ing/README.md)
   * [妖灵会馆](shi-li-jie-shao/yao-jing-ing/yao-ling-hui-guan/README.md)
     * [苍南会馆](shi-li-jie-shao/yao-jing-ing/yao-ling-hui-guan/cang-nan-hui-guan.md)
-    * [龙游会馆](shi-li-jie-shao/yao-jing-ing/yao-ling-hui-guan/long-you-hui-guan.md)
+    * [龙游会馆（ing）](shi-li-jie-shao/yao-jing-ing/yao-ling-hui-guan/long-you-hui-guan-ing.md)
     * [流石会馆](shi-li-jie-shao/yao-jing-ing/yao-ling-hui-guan/liu-shi-hui-guan.md)
     * [寒木会馆](shi-li-jie-shao/yao-jing-ing/yao-ling-hui-guan/han-mu-hui-guan.md)
     * [粤东会馆](shi-li-jie-shao/yao-jing-ing/yao-ling-hui-guan/yue-dong-hui-guan.md)
