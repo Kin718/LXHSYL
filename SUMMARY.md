@@ -134,6 +134,9 @@
     * [观众](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/dian-ying-yi/guan-zhong.md)
     * [选择](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/dian-ying-yi/xuan-ze.md)
   * [众生之门](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/zhong-sheng-zhi-men.md)
+  * [2013](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2013.md)
+  * [2014](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2014.md)
+  * [Page 1](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/page-1.md)
 * [罗小黑战记的作者们（TV）](xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-tv.md)
 * [罗小黑战记的作者们（电影）](xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-dian-ying.md)
 
