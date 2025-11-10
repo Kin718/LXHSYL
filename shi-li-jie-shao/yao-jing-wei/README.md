@@ -24,6 +24,6 @@
 [ling-yao.md](ling-yao.md)
 {% endcontent-ref %}
 
-{% content-ref url="xing-jun.md" %}
-[xing-jun.md](xing-jun.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

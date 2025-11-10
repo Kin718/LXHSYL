@@ -21,10 +21,9 @@
 
 ## 势力介绍
 
-* [人类（ing）](shi-li-jie-shao/ren-lei-ing/README.md)
-  * [兴国（等时间线）](shi-li-jie-shao/ren-lei-ing/xing-guo-deng-shi-jian-xian.md)
-  * [阔伦托雇佣兵](shi-li-jie-shao/ren-lei-ing/kuo-lun-tuo-gu-yong-bing.md)
-  * [西奥兰莫军队](shi-li-jie-shao/ren-lei-ing/xi-ao-lan-mo-jun-dui.md)
+* [人类](shi-li-jie-shao/ren-lei/README.md)
+  * [兴国](shi-li-jie-shao/ren-lei/xing-guo.md)
+  * [众生之门人类玩家](shi-li-jie-shao/ren-lei/zhong-sheng-zhi-men-ren-lei-wan-jia.md)
 * [妖精（未）](shi-li-jie-shao/yao-jing-wei/README.md)
   * [妖灵会馆](shi-li-jie-shao/yao-jing-wei/yao-ling-hui-guan/README.md)
     * [苍南会馆](shi-li-jie-shao/yao-jing-wei/yao-ling-hui-guan/cang-nan-hui-guan.md)
@@ -39,7 +38,6 @@
   * [那迦/北域](shi-li-jie-shao/yao-jing-wei/na-jia-bei-yu.md)
   * [风息/离岛](shi-li-jie-shao/yao-jing-wei/feng-xi-li-dao.md)
   * [灵遥](shi-li-jie-shao/yao-jing-wei/ling-yao.md)
-  * [星君](shi-li-jie-shao/yao-jing-wei/xing-jun.md)
 
 ## 场景地图
 
