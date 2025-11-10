@@ -1,3 +1,11 @@
 # 寒木会馆
 
-常驻人员：大志
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：大志
+{% endcolumn %}
+{% endcolumns %}

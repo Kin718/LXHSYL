@@ -92,8 +92,8 @@
 [cang-nan-hui-guan.md](cang-nan-hui-guan.md)
 {% endcontent-ref %}
 
-{% content-ref url="long-you-hui-guan-ing.md" %}
-[long-you-hui-guan-ing.md](long-you-hui-guan-ing.md)
+{% content-ref url="long-you-hui-guan.md" %}
+[long-you-hui-guan.md](long-you-hui-guan.md)
 {% endcontent-ref %}
 
 {% content-ref url="liu-shi-hui-guan.md" %}

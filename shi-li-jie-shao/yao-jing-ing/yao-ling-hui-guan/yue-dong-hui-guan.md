@@ -1,3 +1,11 @@
 # 粤东会馆
 
-常驻人员：空空
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：空空
+{% endcolumn %}
+{% endcolumns %}
