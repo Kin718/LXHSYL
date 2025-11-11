@@ -33,7 +33,6 @@
     * [粤东会馆](shi-li-jie-shao/yao-jing-ing/yao-ling-hui-guan/yue-dong-hui-guan.md)
     * [洞桥会馆](shi-li-jie-shao/yao-jing-ing/yao-ling-hui-guan/dong-qiao-hui-guan.md)
     * [灵溪会馆](shi-li-jie-shao/yao-jing-ing/yao-ling-hui-guan/ling-xi-hui-guan.md)
-  * [老君/蓝溪镇](shi-li-jie-shao/yao-jing-ing/lao-jun-lan-xi-zhen.md)
   * [明王/酆都](shi-li-jie-shao/yao-jing-ing/ming-wang-feng-dou.md)
   * [那迦/北域](shi-li-jie-shao/yao-jing-ing/na-jia-bei-yu.md)
   * [风息/离岛](shi-li-jie-shao/yao-jing-ing/feng-xi-li-dao.md)

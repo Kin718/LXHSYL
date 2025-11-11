@@ -1,11 +1,11 @@
-# 妖精（未）
+# 妖精（ing）
 
 {% content-ref url="yao-ling-hui-guan/" %}
 [yao-ling-hui-guan](yao-ling-hui-guan/)
 {% endcontent-ref %}
 
-{% content-ref url="lao-jun-lan-xi-zhen.md" %}
-[lao-jun-lan-xi-zhen.md](lao-jun-lan-xi-zhen.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="ming-wang-feng-dou.md" %}

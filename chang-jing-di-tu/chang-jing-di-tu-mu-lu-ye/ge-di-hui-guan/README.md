@@ -2,7 +2,7 @@
 
 截至无限415年（电影一）全球已有84个会馆
 
-<figure><img src="../../../.gitbook/assets/世界地图.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_20251111_211914_com.onyx.galaxy.note.jpg" alt=""><figcaption></figcaption></figure>
 
 #### 已知会馆（14/84）
 
