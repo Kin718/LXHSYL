@@ -101,17 +101,17 @@
 
 ## 人物介绍
 
-* [主要角色介绍（未）](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao-wei/README.md)
-  * [罗小黑](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao-wei/luo-xiao-hei.md)
-  * [罗小白](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao-wei/luo-xiao-bai.md)
-  * [无限](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao-wei/wu-xian.md)
-  * [鹿野](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao-wei/lu-ye.md)
-  * [风息](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao-wei/feng-xi.md)
-  * [灵遥](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao-wei/ling-yao.md)
-  * [老君](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao-wei/lao-jun.md)
-  * [李清凝](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao-wei/li-qing-ning.md)
-  * [玄离](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao-wei/xuan-li.md)
-  * [那迦](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao-wei/na-jia.md)
+* [主要角色介绍](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/README.md)
+  * [罗小黑](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/luo-xiao-hei.md)
+  * [罗小白](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/luo-xiao-bai.md)
+  * [无限](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/wu-xian.md)
+  * [鹿野](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/lu-ye.md)
+  * [风息](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/feng-xi.md)
+  * [灵遥](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/ling-yao.md)
+  * [老君](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/lao-jun.md)
+  * [李清凝](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/li-qing-ning.md)
+  * [玄离](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/xuan-li.md)
+  * [那迦](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/na-jia.md)
 * [人物一览](ren-wu-jie-shao/ren-wu-yi-lan.md)
 
 ## 信息收录
