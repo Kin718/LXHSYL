@@ -110,8 +110,8 @@
 * [木头的几次长图回应](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/README.md)
   * [2013.5.25](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2013.5.25.md)
   * [2015](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2015.md)
-  * [2016](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2016.md)
-  * [2017](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2017.md)
+  * [2016.3.17](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2016.3.17.md)
+  * [2017.5.26](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2017.5.26.md)
   * [电影一](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/dian-ying-yi/README.md)
     * [问答](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/dian-ying-yi/wen-da.md)
     * [剧本](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/dian-ying-yi/ju-ben.md)
@@ -131,10 +131,7 @@
   * [2021.4.25](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2021.4.25.md)
 * [罗小黑战记的作者们（TV）](xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-tv.md)
 * [罗小黑战记的作者们（电影）](xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-dian-ying.md)
-
-## 成长历程
-
-* [成长历程/木头的丢人故事（ing）](cheng-zhang-li-cheng/cheng-zhang-li-cheng-mu-tou-de-diu-ren-gu-shi-ing.md)
+* [成长历程/木头的丢人故事（ing）](xin-xi-shou-lu/cheng-zhang-li-cheng-mu-tou-de-diu-ren-gu-shi-ing.md)
 
 ## 圣地巡礼
 
