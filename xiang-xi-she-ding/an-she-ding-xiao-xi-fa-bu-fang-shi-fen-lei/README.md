@@ -8,12 +8,12 @@
 [guan-bo-ing.md](guan-bo-ing.md)
 {% endcontent-ref %}
 
-{% content-ref url="zhu-chuang-ping-lun-ing.md" %}
-[zhu-chuang-ping-lun-ing.md](zhu-chuang-ping-lun-ing.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 <a href="../an-she-ding-ben-shen-xing-zhi-fen-lei/" class="button primary" data-icon="align-justify">按设定本身性质分类</a><a href="./" class="button primary" data-icon="align-justify">按设定/消息发布方式分类</a>
 
 ***
 
-<a href="lu-yan.md" class="button primary" data-icon="align-justify">路演</a><a href="guan-bo-ing.md" class="button primary" data-icon="align-justify">官博</a><a href="zhu-chuang-ping-lun-ing.md" class="button primary" data-icon="align-justify">主创评论</a>
+<a href="lu-yan.md" class="button primary" data-icon="align-justify">路演</a><a href="guan-bo-ing.md" class="button primary" data-icon="align-justify">官博</a><a href="broken-reference" class="button primary" data-icon="align-justify">主创评论</a>

@@ -97,21 +97,10 @@
 * [按设定/消息发布方式分类](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/README.md)
   * [路演](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/lu-yan.md)
   * [官博（ing）](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/guan-bo-ing.md)
-  * [主创评论（ing）](xiang-xi-she-ding/an-she-ding-xiao-xi-fa-bu-fang-shi-fen-lei/zhu-chuang-ping-lun-ing.md)
 
 ## 人物介绍
 
-* [主要角色介绍](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/README.md)
-  * [罗小黑](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/luo-xiao-hei.md)
-  * [罗小白](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/luo-xiao-bai.md)
-  * [无限](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/wu-xian.md)
-  * [鹿野](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/lu-ye.md)
-  * [风息](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/feng-xi.md)
-  * [灵遥](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/ling-yao.md)
-  * [老君](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/lao-jun.md)
-  * [李清凝](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/li-qing-ning.md)
-  * [玄离](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/xuan-li.md)
-  * [那迦](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao/na-jia.md)
+* [主要角色介绍（ing）](ren-wu-jie-shao/zhu-yao-jue-se-jie-shao-ing.md)
 * [人物一览](ren-wu-jie-shao/ren-wu-yi-lan.md)
 
 ## 信息收录
@@ -119,8 +108,8 @@
 * [其他](xin-xi-shou-lu/qi-ta.md)
 * [时间记录（ing）](xin-xi-shou-lu/shi-jian-ji-lu-ing.md)
 * [木头的几次长图回应](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/README.md)
-  * [2013](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2013.md)
-  * [2014](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2014.md)
+  * [2013.5.25](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2013.5.25.md)
+  * [2015](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2015.md)
   * [2016](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2016.md)
   * [2017](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2017.md)
   * [电影一](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/dian-ying-yi/README.md)
@@ -136,8 +125,10 @@
     * [制作](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/dian-ying-yi/zhi-zuo.md)
     * [观众](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/dian-ying-yi/guan-zhong.md)
     * [选择](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/dian-ying-yi/xuan-ze.md)
-  * [Page 1](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/page-1.md)
+  * [2020.5.15](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2020.5.15.md)
   * [众生之门](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/zhong-sheng-zhi-men.md)
+  * [2021.2.18](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2021.2.18.md)
+  * [2021.4.25](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2021.4.25.md)
 * [罗小黑战记的作者们（TV）](xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-tv.md)
 * [罗小黑战记的作者们（电影）](xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-dian-ying.md)
 
