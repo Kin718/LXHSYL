@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/Image_1762174446323.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/世界地图.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_20251111_211914_com.onyx.galaxy.note.jpg" alt=""><figcaption></figcaption></figure>
 
 <a href="./" class="button primary" data-icon="align-justify">场景地图目录页</a>
 
