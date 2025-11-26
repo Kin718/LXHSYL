@@ -1,117 +1,194 @@
 # 妖灵会馆
 
-### 简介
+### 苍南会馆
 
-会馆为老君所创建，最初仅作为妖精的客栈使用，后在此基础上与明王、哪吒共同创建妖灵会馆，重建妖精之间的秩序
-
-
-
-### 职能
-
-* 旧
-  * 是面对妖精的临时住所，想来便来。在各大主城之中共有数十处，都由掌柜打理，掌柜都是妖精
-* 新
-  * 为妖精提供一定的生活物资，保障妖精生存空间，帮助妖精融入现代社会
-  * 设立执行者等职位，维护妖精与人类的关系
+妖灵会馆的主会馆，位于老君拿出的巨大的上古无主空间内，会馆妖精与人类聚居
 
 
 
-### 会馆法则
+创始人：哪吒
 
-* 不得杀害同类
-* 不得在人类面前暴露自己
+馆长：雨笛
+
+长老：雨笛、静一、西木、池年、灵遥
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 222305.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+姓名：哪吒
+
+年龄：3419\~4418
+
+等级：神
+
+能力：御灵系-火，生灵系-幻化，锁御系-灵御
+
+身份：创始人，执行者
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 221702.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+姓名：雨笛
+
+等级：仙
+
+身份：馆长，长老
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 223712.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+姓名：静一
+
+等级：仙
+
+身份：馆长，长老
+
+静一长老其实最不在乎规矩
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 221641.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+姓名：西木子
+
+等级：仙
+
+原型：狐
+
+能力：锁御系，心灵系-戏梦
+
+身份：馆长，长老
+
+四条眉毛，金棕色眼睛，竖瞳。西木子很早就跟随老君，因为很少出手，实力成谜。西木早年并没人怕他，但因为经常和池年在一起，以至于很多人也开始怕西木子了
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 222159.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+姓名：池年
+
+年龄：至少611
+
+等级：仙
+
+原型：虎
+
+能力：御灵系-土
+
+身份：馆长，长老
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 222327.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+姓名：灵遥
+
+等级：仙
+
+身份：馆长，长老
+
+灵遥在加入会馆前已经是仙人了，当时的他与现在心境大不一样。正如他所说，是位逍遥仙人。无限417年，杀死大松，协助人类盗取若木，欲挑起妖精与人类的战争
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+### 龙游会馆（ing）
+
+位于独立空间内，龙游市内有一栋大楼作为对外办事处和空间入口。无限415年（电影一）大楼被无限、小黑损毁，暂时只能由云入口进入
 
 
 
-### 发展历程
+馆长：潘靖
 
-* 无限3年秋
-  * 老君开始组建会馆，明王、哪吒加入
-* 无限6年夏
-  * 比起兰溪镇建设地如火如荼，广纳妖精的会馆这几年却没有任何动静
-* 无限12年秋
-  * 明年开始会馆开放斗帅宫，一年四届，连胜三场者可获得老君神像
-* 无限13年春（第一届）
-  * 第一届斗帅宫大会参与的妖精多达三千，胜三场者有四百
-* 无限14年夏（第六届）
-  * 四位妖王合战玄离，败了
-* 无限16年冬（第十六届）
-  * 三仙战玄离，败了
-* 无限18年秋（第二十三届）
-  * 谛听挑战玄离
-* 无限31年
-  * 斗帅宫大会成为妖精中盛会，老君很多东西流传到外界
-* 无限45年
-  * 老君开始组建主会馆，主会馆位于上古无主空间内，妖精与人类聚居，会馆成为强大势力，此时已拥有三神十五仙，仙以下强者无数
-* 无限xx年
-  * 天心拒绝成为馆长，潘靖接受
-* 无限xx年（猜测为无限349\~359年之间）
-  * 玄离战北域，八位圣王迎战，折了三位。此时玄离早已离开会馆、很久没参加斗帅宫大会
-* 无限xx年（猜测为无限379\~389之间，第一千届大会）
-  * 会馆妖精数达到几万，成为顶尖势力。拓展了很多新会馆
-  * 斗帅宫大会于三百年间某年更为一年一届，千届大会即将召开
-  * 离岛组与人类发生矛盾，潘靖负责调停。此时风息已成为龙游最强，池年前去没占到便宜，总馆派无限前往龙游&#x20;
-  * 老君与雨笛、西木夜谈，探讨会馆未来
-* 无限xx年（猜测为无限379\~389之间）
-  * 老君与明王、玄离、无限战北域，老君闭关养伤，明王闭关为清凝治疗。老君发誓百年不出君阁（怀疑此誓言并非灵誓，没有任何效力），会馆表面上仍为最强，实际迎来最弱的时期
-* 无限415年（电影一）
-  * 全球已有83个分会馆
+常驻人员：葵纸、阿龙、冬冬（好像？）
+
+***
+
+### 流石会馆
+
+边境道场性质的会馆，修建有明王寺，信奉明王。馆内保管若木
 
 
 
-### 已知会馆（14/84）
+馆长：大松
 
-苍南（主会馆），龙游，流石，寒木，粤东，洞桥，黄河，河海，榕城，花间，茂竹，风灵，灵溪，燕京
+常驻人员：清泉、明月、小玉
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：大松
+
+身份：流石会馆馆长
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：清泉
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：明月
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：小玉
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+###
 
 
 
-### 已知职位
-
-* 总馆长：雨笛
-* 长老：选拔方式不明，不是通过斗帅宫大会选出。目前已知雨笛、静一、西木、池年、灵遥。怀疑长老实力均为仙
-* 馆长：雨笛（苍南）、潘靖（龙游）、大松（流石）、郑信毅（洞桥）、卡里（灵溪）、夏诗越（燕京）
-* 组长：鹿野（感知组）
-* 一级执行者：镜云、浩客、莽眼、肄目、昊天、斑臂、白鬃、稀碎、阿良、莉澄、星月、肖符、心缘、白宜、凌铜、鬼辰、蓝玉、沐夜、樊陪、归月、暮影、厌骨、小绿、绝文、辛绝、叁拾、晓月、木炎、青峰、佳柒、南歌、黑阳、鲁伊、江泠、乞峰、咪咪
-* 执行者：无限、葵纸、阿龙、肉山、冬冬、龙老、兆岳、天介、逸风、冠萱、花轮、羽夕、鹿野、泽宇、西地、紫实、甲、乙、芷清、丁、夏雨、秋辞、洛、余
-* 特殊：天心不是馆长或一级执行者，但地位与馆长同级，属于初创高级自由人员
 
 
-
-### 已知部门分类
-
-* 感知组：组长鹿野，队长泽宇，队员西地、紫实、火花、阿吉、雪荆
-* 后勤组（猜测）：花轮、晴岚
-* 善后组（猜测）：冠萱
-* 心灵感知考察组
-
-&#x20;
-
-### 跳转链接
-
-{% content-ref url="cang-nan-hui-guan.md" %}
-[cang-nan-hui-guan.md](cang-nan-hui-guan.md)
-{% endcontent-ref %}
-
-{% content-ref url="long-you-hui-guan.md" %}
-[long-you-hui-guan.md](long-you-hui-guan.md)
-{% endcontent-ref %}
-
-{% content-ref url="liu-shi-hui-guan.md" %}
-[liu-shi-hui-guan.md](liu-shi-hui-guan.md)
-{% endcontent-ref %}
-
-{% content-ref url="han-mu-hui-guan.md" %}
-[han-mu-hui-guan.md](han-mu-hui-guan.md)
-{% endcontent-ref %}
-
-{% content-ref url="yue-dong-hui-guan.md" %}
-[yue-dong-hui-guan.md](yue-dong-hui-guan.md)
-{% endcontent-ref %}
-
-{% content-ref url="dong-qiao-hui-guan.md" %}
-[dong-qiao-hui-guan.md](dong-qiao-hui-guan.md)
-{% endcontent-ref %}
-
-{% content-ref url="ling-xi-hui-guan.md" %}
-[ling-xi-hui-guan.md](ling-xi-hui-guan.md)
-{% endcontent-ref %}

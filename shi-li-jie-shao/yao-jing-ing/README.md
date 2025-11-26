@@ -4,8 +4,8 @@
 [yao-ling-hui-guan](yao-ling-hui-guan/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/yk6uwZOrdHY29ytr87vM" %}
+[Broken link](/broken/pages/yk6uwZOrdHY29ytr87vM)
 {% endcontent-ref %}
 
 {% content-ref url="ming-wang-feng-dou.md" %}
@@ -24,6 +24,6 @@
 [ling-yao.md](ling-yao.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/qgzt0gQ1uGsoQ1RfNM7I" %}
+[Broken link](/broken/pages/qgzt0gQ1uGsoQ1RfNM7I)
 {% endcontent-ref %}
