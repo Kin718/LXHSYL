@@ -124,6 +124,7 @@
   * [2021.4.25](xin-xi-shou-lu/mu-tou-de-ji-ci-zhang-tu-hui-ying/2021.4.25.md)
 * [罗小黑战记的作者们（TV）](xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-tv.md)
 * [罗小黑战记的作者们（电影）](xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-dian-ying.md)
+* [罗小黑战记的作者们（卡通形象）](xin-xi-shou-lu/luo-xiao-hei-zhan-ji-de-zuo-zhe-men-ka-tong-xing-xiang.md)
 * [成长历程/木头的丢人故事（ing）](xin-xi-shou-lu/cheng-zhang-li-cheng-mu-tou-de-diu-ren-gu-shi-ing.md)
 
 ## 圣地巡礼
