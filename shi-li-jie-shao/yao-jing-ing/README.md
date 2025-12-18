@@ -1,7 +1,7 @@
 # 妖精（ing）
 
-{% content-ref url="yao-ling-hui-guan/" %}
-[yao-ling-hui-guan](yao-ling-hui-guan/)
+{% content-ref url="yao-ling-hui-guan.md" %}
+[yao-ling-hui-guan.md](yao-ling-hui-guan.md)
 {% endcontent-ref %}
 
 {% content-ref url="/broken/pages/yk6uwZOrdHY29ytr87vM" %}

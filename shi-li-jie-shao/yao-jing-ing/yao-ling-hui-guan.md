@@ -6,8 +6,6 @@
 
 
 
-
-
 创始人：老君，明王，哪吒
 
 馆长：雨笛
@@ -16,7 +14,7 @@
 
 {% columns %}
 {% column %}
-<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 222305.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-11-10 222305.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -34,7 +32,7 @@
 
 {% columns %}
 {% column %}
-<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 221702.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-11-10 221702.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -48,7 +46,7 @@
 
 {% columns %}
 {% column %}
-<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 223712.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-11-10 223712.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -64,7 +62,7 @@
 
 {% columns %}
 {% column %}
-<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 221641.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-11-10 221641.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -84,7 +82,7 @@
 
 {% columns %}
 {% column %}
-<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 222159.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-11-10 222159.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -106,7 +104,7 @@
 
 {% columns %}
 {% column %}
-<figure><img src="../../../.gitbook/assets/屏幕截图 2025-11-10 222327.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/屏幕截图 2025-11-10 222327.png" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
@@ -188,9 +186,77 @@
 
 ***
 
-###
+### 寒木会馆
 
 
 
+{% columns %}
+{% column %}
 
+{% endcolumn %}
+
+{% column %}
+姓名：大志
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+### 粤东会馆
+
+
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：空空
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+### 洞桥会馆
+
+
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：郑信毅
+
+身份：洞桥会馆馆长
+{% endcolumn %}
+{% endcolumns %}
+
+***
+
+### 灵溪会馆
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：卡里
+
+身份：灵溪会馆馆长
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+姓名：秃贝
+{% endcolumn %}
+{% endcolumns %}
 
